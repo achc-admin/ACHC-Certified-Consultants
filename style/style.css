@@ -67,3 +67,9 @@ background:url(../img/ICON-5.png);
 background-size: auto;
 background-repeat: no-repeat;
 }
+@media (max-width: 900px) {
+    .box-title-container {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+    }
+}
