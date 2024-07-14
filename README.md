@@ -1,4 +1,4 @@
-# ACHC Certified Consultants
+# ACHC Certified Consultants Page
 
 ## Description
 Template for filtering system in Certified Consultant Page
